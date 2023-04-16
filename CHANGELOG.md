@@ -11,3 +11,5 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 # Unreleased
 
 ## 0.0.1
+
+Overview: Maintenance of README.md Multilingualization (Japanese/English)

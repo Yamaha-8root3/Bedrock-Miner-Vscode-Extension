@@ -1,7 +1,7 @@
 {
-  "name": "addon-tools",
-  "displayName": "MCBE Addon Tools",
-  "description": "",
+  "name": "bedrock-miner",
+  "displayName": "Bedrock Miner ~ MCBE Addon Tools ~",
+  "description": "Addon Development Tools for Minecraft Bedrock Edition",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.77.0"

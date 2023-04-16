@@ -27,4 +27,4 @@ Coming soon...
 
 ## 0.0.1
 
-Creation ・Temporary creation of README.md
+Overview: Maintenance of README.md Multilingualization (Japanese/English)
